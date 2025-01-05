@@ -1,2 +1,1 @@
-# Random Sayi Tahmin Oyunu
- 
+# Random Number Guessing Game
