@@ -1,0 +1,7 @@
+C:\Users\mehme\OneDrive\Desktop\Projeler\Random Sayı Tamin Oyunu\bin\Debug\Random Sayı Tamin Oyunu.exe.config
+C:\Users\mehme\OneDrive\Desktop\Projeler\Random Sayı Tamin Oyunu\bin\Debug\Random Sayı Tamin Oyunu.exe
+C:\Users\mehme\OneDrive\Desktop\Projeler\Random Sayı Tamin Oyunu\bin\Debug\Random Sayı Tamin Oyunu.pdb
+C:\Users\mehme\OneDrive\Desktop\Projeler\Random Sayı Tamin Oyunu\obj\Debug\Random Sayı Tamin Oyunu.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Desktop\Projeler\Random Sayı Tamin Oyunu\obj\Debug\Random Sayı Tamin Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Desktop\Projeler\Random Sayı Tamin Oyunu\obj\Debug\Random Sayı Tamin Oyunu.exe
+C:\Users\mehme\OneDrive\Desktop\Projeler\Random Sayı Tamin Oyunu\obj\Debug\Random Sayı Tamin Oyunu.pdb
